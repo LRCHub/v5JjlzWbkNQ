@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Get Over",
+  "base_artist": "dream",
+  "createdAt": "2026-01-04T18:04:17.076923Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What If I Never Get Over You",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/01_What_If_I_Never_Get_Over_You_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What If I Never Get Over You",
+      "artist": "Lady A",
+      "has_synced": true,
+      "path": "select/02_What_If_I_Never_Get_Over_You_Lady_A.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Get Over You - 2001 Remastered",
+      "artist": "Crystal Gayle",
+      "has_synced": true,
+      "path": "select/03_I'll_Get_Over_You_-_2001_Remastered_Crystal_Gayle.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'll Get Over You (Remastered)",
+      "artist": "Crystal Gayle",
+      "has_synced": true,
+      "path": "select/04_I'll_Get_Over_You_(Remastered)_Crystal_Gayle.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Wurlitzer Prize (I Don't Want to Get Over You)",
+      "artist": "Waylon Jennings",
+      "has_synced": true,
+      "path": "select/05_The_Wurlitzer_Prize_(I_Don't_Want_to_Get_Over_You)_Waylon_Jennings.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tryin' To Get Over You",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/06_Tryin'_To_Get_Over_You_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tryin' To Get Over You (Album Version)",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/07_Tryin'_To_Get_Over_You_(Album_Version)_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tryin' To Get Over You (Album Version)",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/08_Tryin'_To_Get_Over_You_(Album_Version)_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What If I Never Get Over You",
+      "artist": "Lady A",
+      "has_synced": true,
+      "path": "select/09_What_If_I_Never_Get_Over_You_Lady_A.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Get Over It",
+      "artist": "Amber Liu",
+      "has_synced": true,
+      "path": "select/10_Get_Over_It_Amber_Liu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Don't Want To Get Over You",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/11_I_Don't_Want_To_Get_Over_You_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Get Over It",
+      "artist": "nothing,nowhere.",
+      "has_synced": true,
+      "path": "select/12_Get_Over_It_nothing,nowhere..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Can't Get Over Getting Over Losing You",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/13_Can't_Get_Over_Getting_Over_Losing_You_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Never Get Over You",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/14_Never_Get_Over_You_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Five Get Over Excited",
+      "artist": "The Housemartins",
+      "has_synced": false,
+      "path": "select/15_Five_Get_Over_Excited_The_Housemartins.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Five Get Over Excited",
+      "artist": "The Housemartins",
+      "has_synced": true,
+      "path": "select/16_Five_Get_Over_Excited_The_Housemartins.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Still Can't Get Over Loving You",
+      "artist": "Ray Parker Jr.",
+      "has_synced": true,
+      "path": "select/17_I_Still_Can't_Get_Over_Loving_You_Ray_Parker_Jr..lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I'll Never Get Over You Getting Over Me - 7\" Version",
+      "artist": "Expose",
+      "has_synced": true,
+      "path": "select/18_I'll_Never_Get_Over_You_Getting_Over_Me_-_7__Version_Expose.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Get Over",
+      "artist": "dream",
+      "has_synced": false,
+      "path": "select/pl_01_Get_Over_dream.txt"
+    }
+  ]
+}
